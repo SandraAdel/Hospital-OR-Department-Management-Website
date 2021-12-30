@@ -1,5 +1,5 @@
 # Hospital-OR-Department-Management-Website
-# Database Systems for Medical Data Course Project: Full Stack Web Application for a Hospital Department
+## Database Systems for Medical Data Course Project: Full Stack Web Application for a Hospital Department
 
 ## High-level Description:
 1) Users are categorized into Doctors, Patients and Admins. Each with his/her own webpage and allowed options and functionalities
